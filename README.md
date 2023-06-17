@@ -41,6 +41,7 @@ $ pnpm dev
 ---
 
 1. Homepages
+2. Category
 
 ## Technologies 🚀
 
@@ -56,4 +57,4 @@ $ pnpm dev
 
 ---
 
-Week 19 Assignment Links :
+Week 19 Assignment Links : https://w19-react-features-dandirizkyy.vercel.app/
